@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+This is the Clojure Bridge Project and I am fixing the README! 
 
 ## Prerequisites
 
